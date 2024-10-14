@@ -1,5 +1,5 @@
 Sketchware Project
-![Sketchware mod by Jeanpseven](sk.png)
+![Sketchware mod by Jeanpseven](images/sk.png)
 Welcome to our Sketchware project! This repository contains Components,Blocks,Events and sketchware mod
 
 Getting Started
@@ -20,6 +20,9 @@ I've recently fixed the AppCompat bug by adding more files to the META-INF folde
 
 Footage
 Here are some footage of our project:
+![Sketchware mod by Jeanpseven](images/vid1)
+![Sketchware mod by Jeanpseven](images/vid2)
+![Sketchware mod by Jeanpseven](images/vid2)
 
 
 Contributing
