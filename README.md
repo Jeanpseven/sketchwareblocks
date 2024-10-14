@@ -1,7 +1,7 @@
 # Sketchware Project
 =====================
 
-<img src="https://github.com/Jeanpseven/sketchwareblocks/raw/main/images/sk.png" alt="Sketchware mod logo" />
+<img src="https://github.com/Jeanpseven/sketchwareblocks/images/sk.png" alt="Sketchware mod logo" />
 
 Welcome to our Sketchware project! This repository contains Components, Blocks, Events, and Sketchware mod.
 
@@ -37,9 +37,9 @@ I've recently fixed the AppCompat bug by adding more files to the `META-INF` fol
 
 Here are some footage of our project:
 
-<img src="https://github.com/Jeanpseven/sketchwareblocks/raw/main/images/vid1" alt="Screen Recording 1" />
-<img src="https://github.com/Jeanpseven/sketchwareblocks/raw/main/images/vid2" alt="Screen Recording 2" />
-<img src="https://github.com/Jeanpseven/sketchwareblocks/raw/main/images/vid3" alt="Screen Recording 3" />
+<img src="https://github.com/Jeanpseven/sketchwareblocks/images/vid1" alt="Screen Recording 1" />
+<img src="https://github.com/Jeanpseven/sketchwareblocks/images/vid2" alt="Screen Recording 2" />
+<img src="https://github.com/Jeanpseven/sketchwareblocks/images/vid3" alt="Screen Recording 3" />
 
 ## Contributing
 ------------
