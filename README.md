@@ -20,9 +20,7 @@ I've recently fixed the AppCompat bug by adding more files to the META-INF folde
 
 Footage
 Here are some footage of our project:
-![Sketchware mod by Jeanpseven](images/vid1)
-![Sketchware mod by Jeanpseven](images/vid2)
-![Sketchware mod by Jeanpseven](images/vid2)
+
 
 
 Contributing
