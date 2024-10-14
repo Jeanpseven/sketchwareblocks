@@ -1,5 +1,5 @@
 Sketchware Project
-![Sketchware mod by Jeanpseven](sk.png)
+![Sketchware mod by Jeanpseven](sk)
 Welcome to our Sketchware project! This repository contains Components,Blocks,Events and sketchware mod
 
 Getting Started
@@ -20,9 +20,9 @@ I've recently fixed the AppCompat bug by adding more files to the META-INF folde
 
 Footage
 Here are some footage of our project:
-![Sketchware mod by Jeanpseven](Screenrecorder-2024-10-14-19-55-25-798.mp4)
-![Sketchware mod by Jeanpseven](Screenrecorder-2024-10-14-19-55-45-10.mp4)
-![Sketchware mod by Jeanpseven](Screenrecorder-2024-10-14-19-56-26-154.mp4)
+![Sketchware mod by Jeanpseven](Screenrecorder-2024-10-14-19-55-25-798)
+![Sketchware mod by Jeanpseven](Screenrecorder-2024-10-14-19-55-45-10)
+![Sketchware mod by Jeanpseven](Screenrecorder-2024-10-14-19-56-26-154)
 
 Contributing
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
